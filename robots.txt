@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pondleter.github.io/sitemap.html.gz
+Sitemap: https://pondleter.github.io/app/sitemap.html.gz
+Sitemap: https://pondleter.github.io/assets/sitemap.html.gz
+Sitemap: https://pondleter.github.io/css/sitemap.html.gz
+Sitemap: https://pondleter.github.io/includes/sitemap.html.gz
+Sitemap: https://pondleter.github.io/item/sitemap.html.gz
+Sitemap: https://pondleter.github.io/src/sitemap.html.gz
